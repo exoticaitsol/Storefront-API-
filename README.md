@@ -1,8 +1,3 @@
-> [!WARNING]  
-> **This repo is unmaintained, and the examples are now out of date.**
->
->  **For up-to-date resources and tools, check out https://shopify.dev/docs/custom-storefronts**
-
 
 # Storefront API Examples
 
